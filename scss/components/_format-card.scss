@@ -9,14 +9,9 @@
   );
   padding: 24px;
   border-radius: 16px;
-  transition: transform 0.3s;
   display: flex;
   flex-direction: column;
   justify-content: flex-end;
-
-  &:hover {
-    transform: scale(1.05);
-  }
 
   &__image {
     position: absolute;
